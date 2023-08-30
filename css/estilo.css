@@ -132,6 +132,11 @@ h3 {
   padding-left:90px ;
 }
 
+.carousel-control-next, .carousel-control-prev {
+  width: 5%;
+  
+}
+
 
 
 footer {
